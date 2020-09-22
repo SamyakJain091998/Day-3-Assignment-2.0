@@ -1,2 +1,2 @@
 # Day-3-Assignment-2.0
-Just another assignment
+UC5 & UC6 executed succesfully
